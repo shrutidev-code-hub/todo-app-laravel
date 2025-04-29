@@ -1,3 +1,4 @@
+ HEAD
 # 📝 To-Do List Application (Laravel)
 
 A simple and elegant To-Do List web application built with **Laravel**, **Bootstrap**, **MySQL**, and **PHP**.  
@@ -35,3 +36,7 @@ Follow these simple steps to run the project locally:
 1. Clone the repository  
 ```bash
 git clone https://github.com/shrutidev-code-hub/todo-app-laravel.git
+
+# todo-app-laravel
+Simple Laravel To-Do App with CRUD
+ 9155a428d8e621e57a519e00a2ceb2867a01e5ef
